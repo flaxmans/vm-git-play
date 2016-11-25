@@ -1,0 +1,8 @@
+How I set up a VirtualBox running Ubuntu on my Mac OSX machine:
+
+1. Downloaded VirtualBox from: https://www.virtualbox.org/wiki/Downloads 
+
+2. Downloaded Ubuntu from: https://www.ubuntu.com/download/desktop
+
+3. Started VirtualBox and then followed instructions available at: https://brb.nci.nih.gov/bdge/installUbuntu.html
+
